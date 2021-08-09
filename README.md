@@ -1,27 +1,48 @@
-<h1 align="center">Hello! I'm Rodrigo de Souza 👨‍💻</h1>
-<h3 align="center">Apaixonado por desenvolvimento e programação.</h3>
+<div align="center">
+  <h1 >Olá, Mundo! Eu sou o Rodrigo de Souza 👨‍💻</h1>
+  📚 Tecno em Análise e desenvolvimento de sistemas
+  <h3>🥰 Apaixonado por desenvolvimento e programação.</h3>
+  <br>
+  <div>
+    <p>🔧 STACKS</p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  </div>
+  <br>
+  <div>
+    <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSouzaSilva&layout=compact&theme=radical">
+  </div>
+  <br>
+  <div>
+    <p>📬 Como me achar <a href="">rodrigo_souza.91@hotmail.com</a></p>
+  </div>
+  <br>
+  <div>
+    <p>🙋‍♂️ conecte-se comigo:</p>
+    <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <a href=""><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white"/></a>
+    
+  </div>
+  <br>
+  <div>
+    <img height="300em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSouzaSilva&show_icons=true&theme=radical"></span>
+  </div>
+  <br>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=RodrigoSouzaSilva&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" />
+  </div>
+  <br>  
+  <div>
+    <img height="300em" src="https://camo.githubusercontent.com/a154f345724bffd2d9a6d0d21eaca504400c578ddd277e7b58ddcc4bc9a6bcbb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3232303136372f73637265656e73686f74732f323337333337352f726573705f6472696262626c652e676966">
+  </div>
+  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RodrigoSouzaSilva&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
-
-- 📝 I have a YouTube channel for front-end content [https://www.youtube.com/GabrielaPinheiro](https://www.youtube.com/GabrielaPinheiro)
-
-- ⚡ Fun fact **I love oldschool and 2D games, so I'am studying game development at Cruzeiro do Sul**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabrielapinheiro129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabrielapinheiro129" height="30" width="40" /></a>
-<a href="https://instagram.com/ga.brielapinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ga.brielapinheiro" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
+</div>
