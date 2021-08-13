@@ -2,6 +2,8 @@
   
   <h1 >Olá, Mundo! Eu sou o Rodrigo de Souza 👨‍💻</h1>
   📚 Técnico em Análise e desenvolvimento de sistemas
+  <br>
+  🛠 Aprendendo React e NextJs
   <h3>🥰 Apaixonado por desenvolvimento e programação.</h3>
   <br>
   
